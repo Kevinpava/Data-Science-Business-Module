@@ -42,7 +42,8 @@ Por eso los KPIs se dividen en 3:
 
 ## Ciclo de vida de un proyecto de datos (CRISP-DM)
 
-<img width="837" height="770" alt="Pasted image 20260622154100" src="https://github.com/user-attachments/assets/c1fcc3b6-3e1f-421a-8528-0cff08fdf198" />
+<img width="1024" height="945" alt="image" src="https://github.com/user-attachments/assets/81bbd69d-faad-4dfa-946a-ba3f8ba51eea" />
+
 
 Esta metodología se compone de 6 fases, las cuales son:
 
